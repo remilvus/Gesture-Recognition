@@ -1,4 +1,4 @@
-# Python_project
+# Gesture recognition
 [Weronika Ormaniec](https://github.com/werkaaa), [Adam Kania](https://github.com/remilvus)
 # Rozpoznawanie Gestów
 ## Instrukcja obsługi:
@@ -32,6 +32,12 @@ Jeżeli komputer nie ma dostępnej karty graficznej, rekomendujemy ubranie kolor
 
 ## Notebook do trenowania modelu:
 https://colab.research.google.com/drive/189vYRl-LEkticxFXlKF3IC8P1YliIxU4
+
+## Biblioteki, z których korzystaliśmy:
+* [OpenCV](https://pypi.org/project/opencv-python/)
+* [PyTorch](https://pytorch.org/)
+* [Face Recognition](https://github.com/ageitgey/face_recognition)
+* inne podstawowe
 
 ## Źródło danych do trenowania modelu:
 https://github.com/athena15/project_kojak
